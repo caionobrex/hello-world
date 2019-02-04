@@ -1,4 +1,4 @@
 # hello-world
 I'm caionobre
 
-I like write beautiful codes.
+I like to write beautiful codes.
